@@ -1,0 +1,49 @@
+Quarterbacks,,,,,,,,,
+,,,,,,,,,
+Depth,Player,Contract,Draft,Age,Ht,Wt,Status,%DB,%Runs
+1,Joe Flacco,2017,2008-1,30.6,"6'6""",245,0,100%,9%
+2,Matt Schaub,2015,2004-3,34.1,"6'6""",245,0,1%,0%
+3,Bryn Renner,R/F,2014-U,25.5,"6'3""",225,0,0%,0%
+,,,,,,,,,
+Halfbacks,,,,,,,,,
+,,,,,,,,,
+Depth,Player,Contract,Draft,Age,Ht,Wt,Status,%Runs,%Targs
+1,Justin Forsett,2017,2008-7,29.8,"5'8""",195,0,53%,13%
+2,Lorenzo Taliaferro,2017,2014-4,23.6,"6'0""",225,0,27%,4%
+3,Javorius Allen,2018,2015-4,24,"6'0""",220,0,9%,3%
+4,Fitzgerald Toussaint,2016,2014-U,25.3,"5'10""",211,0,1%,0%
+5,Terrence Magee,2017,2015-U,22.4,"5'9""",215,0,0%,0%
+,,,,,,,,,
+Fullbacks,,,,,,,,,
+,,,,,,,,,
+Depth,Player,Contract,Draft,Age,Ht,Wt,Status,%Runs,%Targs
+1,Kyle Juszczyk,2016,2013-4,24.3,"6'1""",248,0,0%,5%
+2,Kiero Small,R/F,2014-7,26.3,"5'9""",242,0,0%,0%
+,,,,,,,,,
+Wide Receivers,,,,,,,,,
+,,,,,,,,,
+Depth,Player,Contract,Draft,Age,Ht,Wt,Status,%Runs,%Targs
+1,Steve L. Smith,2016,2001-3,36.2,"5'9""",185,0,0%,20%
+2,Breshad Perriman,2018,2015-1,21.9,"6'2""",218,0,0%,19%
+3,Kamar Aiken,2015,2011-U,26.2,"6'2""",215,0,0%,12%
+4,Marlon Brown,2015,2013-U,24.3,"6'5""",214,0,0%,5%
+5,Michael Campanaro,2017,2014-7,24.5,"5'9""",185,0,1%,2%
+6,Darren Waller,2018,2015-6,22.9,"6'6""",245,0,0%,1%
+7,DeAndre Carter,2017,2015-U,22.3,"5'8""",188,0,0%,0%
+8,Jeremy Butler,2016,2014-U,24.3,"6'2""",213,0,0%,0%
+9,Aldrick Robinson,R/F,2011-6,26.9,"5'10""",187,0,0%,0%
+10,Tom Nelson,2017,2009-U,28.7,"5'11""",200,0,0%,0%
+11,Daniel Brown,2017,0,0,0,0,0,0%,0%
+12,Trent Steelman,0,0,0,0,0,0,0%,0%
+16,Cam Worthy,2014,2015-U,23.3,"6'3""",212,IR,0%,0%
+,,,,,,,,,
+Tight Ends,,,,,,,,,
+,,,,,,,,,
+Depth,Player,Contract,Draft,Age,Ht,Wt,Status,%Runs,%Targs
+1,Crockett Gillmore,2017,2014-3,23.7,"6'6""",270,0,0%,6%
+2,Maxx Williams,2018,2015-2,21.3,"6'4""",250,0,0%,10%
+3,Nick Boyle,2018,2015-5,22.5,"6'4""",260,0,0%,1%
+4,Konrad Reuland,R/F,2011-U,28.3,"6'5""",254,0,0%,0%
+5,Allen Reisner,R/F,2011-U,26.9,"6'3""",255,0,0%,0%
+6,Dennis Pitta,2018,2010-4,30.1,"6'4""",245,res/PUP,0%,0%
+,,,,,,,,,
